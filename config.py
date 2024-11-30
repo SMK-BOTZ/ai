@@ -10,7 +10,7 @@ API_HASH = os.environ.get("API_HASH", "4022d5686b9b7a7cf8891205921a0ab3")
 # ----------------D--------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "7641984496:AAHgZopQQiDTOje1fjQJAJdM0aZABgLyJiU")
 # -----------------A-------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "EQUROBOT")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "AI_VR_Bot")
 # ------------------X------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "6551906246"))
 
